@@ -32,7 +32,7 @@ export default function Home() {
       <h1 className="text-center p-4 text-2xl font-bold">Products</h1>
       <div className="flex justify-center">
         <div className="grid grid-cols-4 gap-7 p-10">
-          {data.map((product, index) => (
+          {data.map((product: any, index) => (
             <div
               className="border flex flex-col justify-between shadow-lg p-3"
               key={index}
