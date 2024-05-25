@@ -1,7 +1,5 @@
-![kucing](./image.png)
-
+#Learn NextJs
 ## Getting Started
-
 First, run the development server:
 
 ```bash
